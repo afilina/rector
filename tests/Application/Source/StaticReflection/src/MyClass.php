@@ -1,6 +1,6 @@
 <?php
 
-final class MyClass
+final class MyClass extends ParentClass
 {
     public function __construct()
     {
